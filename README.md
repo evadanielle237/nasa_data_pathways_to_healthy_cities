@@ -1,2 +1,30 @@
-# nasa_data_pathways_to_healthy_cities
-Hackathon project: Using NASA Earth data to design data-driven solutions for healthy cities (Douala &amp; Yaoundé case study)
+# NASA Hackathon 2025 – Healthy Cities Challenge 🌍
+
+###  Challenge
+Use NASA Earth observation data to help urban planners design smart, sustainable strategies for city growth while maintaining human and environmental wellbeing.
+
+###  Focus Area
+- Case study: **Douala & Yaoundé (Cameroon)**
+- Urban challenges: waste management, flooding, air quality, lack of green spaces
+
+###  Project Idea
+Build a **data-driven platform** that:
+- Maps waste hotspots using satellite & community data
+- Monitors air quality and flooding risks
+- Supports planning for green spaces and infrastructure
+- Engages communities through reporting + AI insights
+
+###  NASA Data Sources
+- **Landsat** – urban growth & land use
+- **MODIS** – air quality & climate indicators
+- **GRACE** – water & flooding risks
+- **VIIRS** – population density (nighttime lights)
+
+###  Tech Stack
+- **Backend**: Python (FastAPI/Django, Pandas, GeoPandas, NASA APIs)
+- **Frontend**: React (interactive dashboards, maps)
+- **Visualization**: Mapbox / Leaflet / Power BI
+- **Hosting**: AWS (S3 + CloudFront)
+
+###  Repository Structure
+
