@@ -1,4 +1,4 @@
-# NASA Hackathon 2025 – Healthy Cities Challenge 🌍
+# NASA Hackathon 2025 –  Data Pathways to Healthy Cities and Human Settlements
 
 ###  Challenge
 Use NASA Earth observation data to help urban planners design smart, sustainable strategies for city growth while maintaining human and environmental wellbeing.
